@@ -29,7 +29,7 @@ Gui Brant: 251301839\
 Adil Virk: 251311740\
 Joel Waldner: 251303569\
 Cristian Forero: 250998245\
-Madison Sylvester: 2512191111\
+Madison Sylvester: 2512191111
 
 # **Acknowledgments**
 
