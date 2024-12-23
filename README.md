@@ -22,7 +22,7 @@ Key features include a robust machine learning pipeline for model training and o
 # **Results**
 The ensemble model demonstrated robust performance with an accuracy of 91% and an ROC-AUC score of 96.88%. Descriptive analysis identified motor impairments as the most significant predictors of PD, followed by cognitive and functional scores. These insights contribute to a better understanding of PD diagnosis and can guide future research and clinical applications.
 
-#**Contributions**
+# **Contributions**
 This project was collaboratively developed by:
 
 Gui Brant: 251301839\
